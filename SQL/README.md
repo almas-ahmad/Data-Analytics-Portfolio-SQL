@@ -1,1 +1,25 @@
+# SQL Projects
 
+This section contains my SQL work focused on solving real-world business problems using
+advanced queries, CTEs, and window functions.
+
+---
+
+## 🔹 Business Analytics Use Cases
+
+- **Month-over-Month Sales Growth**  
+  https://github.com/almas-ahmad/month-over-month-sales-growth
+
+- **Duplicate Email Detection**  
+  https://github.com/almas-ahmad/sql-identify-duplicate-emails
+
+---
+
+## 🔹 Advanced SQL Concepts
+
+- **Window Functions (RANK, LAG, LEAD)**
+- **employee-attendance-analysis**
+  https://github.com/almas-ahmad/employee-attendance-analysis
+
+- **CTEs & Subqueries**  
+  https://github.com/your-username/sql-cte-practice
