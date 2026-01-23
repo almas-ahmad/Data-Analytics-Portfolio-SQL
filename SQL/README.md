@@ -21,5 +21,10 @@ advanced queries, CTEs, and window functions.
 - **employee-attendance-analysis**
   https://github.com/almas-ahmad/employee-attendance-analysis
 
+- **fraud-transaction-spike-detector**  
+  https://github.com/almas-ahmad/fraud-transaction-spike-detector-sql
+
 - **CTEs & Subqueries**  
   https://github.com/your-username/sql-cte-practice
+
+ 
