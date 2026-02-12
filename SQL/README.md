@@ -27,4 +27,11 @@ advanced queries, CTEs, and window functions.
 - **CTEs & Subqueries**  
   https://github.com/your-username/sql-cte-practice
 
- 
+ - **user-reengagement-dormant-analysis-sql**
+  https://github.com/almas-ahmad/user-reengagement-dormant-analysis-sql  
+
+- **product-feature-dropoff-analysis-sql**
+  https://github.com/almas-ahmad/product-feature-dropoff-analysis-sql
+
+- **revenue-leakage-risk-analysis-sql**
+  https://github.com/almas-ahmad/revenue-leakage-risk-analysis-sql
